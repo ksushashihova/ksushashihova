@@ -1,7 +1,7 @@
 # Привет, я Ксения 👋
 
 💻 Разрабатываю AI-ботов и пишу сайты  
-📫 Связаться со мной: [Telegram](https://t.me/username) | Email: [ksushashihova@yandex.ru](mailto:ksushashihova@yandex.ru)  
+📫 Связаться со мной: [Telegram](https://t.me/ksushashih) | Email: [ksushashihova@yandex.ru](mailto:ksushashihova@yandex.ru)  
 
 ---
 
